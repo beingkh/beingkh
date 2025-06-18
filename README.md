@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 Hi, I’m Rakesh K H
+🚀 **AWS DevOps Engineer**
 
-<!--
-**beingkh/beingkh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑‍💻 About Me
+-----------
+🏗️ Skilled in **AWS**, **CI/CD pipelines**, **Docker**, and **Kubernetes** for designing and managing robust cloud infrastructures.
+🎓 Completed **MSc in Information Technology** from **Lovely Professional University (LPU)**, with advanced knowledge and hands-on experience in IT.
+⚡ Dedicated to leveraging automation and best practices to deliver efficient, scalable solutions.
 
-Here are some ideas to get you started:
+💼 What I Do
+-------------
+⚙️ Automate and manage infrastructure and deployments (e.g., CI/CD pipelines, container orchestration, and cloud infrastructure)
+🔄 Ensure smooth and continuous delivery of software by bridging development and operations teams
+🛠️ Monitor, troubleshoot, and optimize infrastructure and application deployments
+🔐 Implement security, compliance, and scalability best practices
+📜 Manage infrastructure as code and automate repetitive tasks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let’s build something amazing.
