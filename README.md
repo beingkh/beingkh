@@ -1,27 +1,14 @@
+I have 1.2 years of hands-on experience as a DevOps and SRE Engineer, with expertise in AWS DevOps ecosystems. My skill set includes Terraform, Jenkins pipelines, GitHub, Docker, Kubernetes, Ansible, Shell scripting, and Git.
 
-👋 Hi there! I'm **Rakesh K H**, an aspiring **AWS DevOps Engineer**. 🚀
+In AWS, I’ve worked with services such as EC2, EKS, ECR, VPC, Route 53, Subnets, NAT Gateways, S3, DynamoDB, CloudWatch, and CloudTrail to automate infrastructure and improve visibility.
 
----
+I build and manage Docker images using Dockerfiles, handle container lifecycle operations, and manage volumes. I’ve deployed workloads to Kubernetes using Helm charts and YAML manifests for real-time scaling and rollouts.
 
-## About Me 🧑‍💻
+For CI/CD, I’ve created multi-stage Jenkins pipelines, integrated version control systems, and automated deployments across environments. I’ve also implemented Git-based branching and merging strategies to streamline collaboration and release workflows.
 
-I'm diving deep into the world of **AWS DevOps**, focused on building and managing **efficient, scalable cloud infrastructures**. My goal is to help businesses get their software from an idea to customers **faster and more reliably**.
-
-I'm proud to hold a **Master of Science (MSc) in Information Technology** from **Lovely Professional University (LPU)** in India 🎓. My academic journey provided me with a strong foundation and hands-on experience, preparing me for the dynamic field of DevOps.
-
----
-
-## What I'm Learning & Doing 🛠️
-
-I'm actively honing my skills in key areas:
-
-* **Building & Managing Cloud Systems:** ☁️ I'm mastering how to set up robust, powerful online infrastructures where applications live and thrive, primarily using **Amazon Web Services (AWS)**.
-* **Automating Everything:** ⚙️ I'm learning to create sophisticated **CI/CD pipelines** (Continuous Integration/Continuous Delivery). Think of these as automated assembly lines that handle every step, from code commit to live deployment, leveraging tools like **Docker** for neat application packaging and **Kubernetes** for large-scale application orchestration.
-* **Ensuring Smooth Operations:** 🩺 My focus includes monitoring systems, quickly resolving issues, and implementing best practices to ensure everything is **secure** 🔐 and can handle high volumes of users without a hitch.
-* **Bridging Development & Operations:** 🤝 I'm passionate about fostering seamless collaboration between development and operations teams, making the entire software delivery process more efficient.
-
----
-
-I'm driven by a passion for leveraging **automation** and **best practices** to deliver reliable and scalable solutions.
-
-Ready to build something amazing together? Let's connect! ✨
+Skills
+🔷 Cloud Platforms: AWS
+🔷 Infrastructure as Code: Terraform, Ansible
+🔷 CI/CD & Automation: Jenkins, GitHub, ArgoCD
+🔷 Containerization & Orchestration: Docker, Kubernetes (EKS), Helm
+🔷 Scripting & Source Control: Shell, Git, GitHub
