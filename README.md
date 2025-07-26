@@ -25,6 +25,4 @@ For CI/CD, I’ve created multi-stage Jenkins pipelines, integrated version cont
 
 ✉️ Email: rakeshkh.devops@gmail.com
 
-💡 Interested in collaborating on DevOps, automation
-
-Feel free to connect — I'm open to exciting opportunities and technical partnerships.
+💡 Feel free to connect — I'm open to exciting opportunities and technical partnerships.
