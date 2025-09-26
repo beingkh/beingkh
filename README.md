@@ -1,7 +1,7 @@
 ✨ About Me
 ---
 
-I have 1.2 years of hands-on experience as a DevOps and SRE Engineer, with expertise in AWS DevOps ecosystems. My skill set includes Terraform, Jenkins pipelines, GitHub, Docker, Kubernetes, Ansible, Shell scripting, and Git.
+I have 1.2 years of hands-on experience as a software engineer, with expertise in AWS DevOps ecosystems. My skill set includes Terraform, Jenkins pipelines, GitHub, Docker, Kubernetes, Shell scripting, and Git.
 
 In AWS, I’ve worked with resources such as EC2, lambda, ECR, EKS, VPC, Route 53, S3, DynamoDB, CloudWatch, and CloudTrail to automate infrastructure and improve visibility.
 
@@ -12,12 +12,12 @@ For CI/CD, I’ve created multi-stage Jenkins pipelines, integrated version cont
 🧰 Skills
 ---
 
-🔹 Cloud Platforms: Amazon Web Services (AWS)
+🔹 Cloud Platforms: Aws, Azure
 🔹 Infrastructure as Code: Terraform
 🔹 CI/CD & Automation: Jenkins, ArgoCD
 🔹 Containerization: Docker, ECR
-🔹 Orchestration: Kubernetes, Helm, EKS
-🔹 Scripting: Shell (Bash)
+🔹 Orchestration: AKS, EKS with Helm
+🔹 Scripting: Shell (Bash), python
 🔹 Version Control Systems: Git, GitHub
 
 📬 Contact
