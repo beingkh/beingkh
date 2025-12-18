@@ -16,5 +16,5 @@ I have 1.2 years of hands-on experience as a software engineer, with expertise i
 📬 Contact
 ---
 
-✉️ Email: rakeshkh.devops@gmail.com
+✉️ Email: rakesh@xgoods.in, business@m4hmotors.com, rakeshkh.devops@gmail.com
 
