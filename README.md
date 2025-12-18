@@ -18,4 +18,3 @@ I have 1.2 years of hands-on experience as a software engineer, with expertise i
 
 ✉️ Email: rakeshkh.devops@gmail.com
 
-💡 Feel free to connect — I'm open to exciting opportunities and technical partnerships.
