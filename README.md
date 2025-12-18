@@ -1,7 +1,7 @@
 ✨ About Me
 ---
 
-I have 1.2 years of hands-on experience as a software engineer, with expertise in AWS DevOps ecosystems. My skill set includes Terraform, github pipelines, GitHub, Docker, Kubernetes, Shell scripting, and Git.
+I have 1.2 years of hands-on experience as a software engineer, with expertise in (AWS & Azure DevOps ecosystems). My skill set includes Terraform, github pipelines, GitHub, Docker, Kubernetes, Shell scripting, and Git.
 
 🧰 Skills
 ---
