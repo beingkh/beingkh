@@ -1,13 +1,10 @@
 ✨ About Me
 ---
-
-I have 1.2 years of hands-on experience as a software engineer, with expertise in (AWS & Azure DevOps ecosystems). My skill set includes Terraform, github pipelines, GitHub, Docker, Kubernetes, Shell scripting, and Git.
+I have 1.2 years of hands-on experience as a software engineer, with expertise in (AWS ecosystems). My skill set includes aws services(EC2, Route53, S3, VPC, EKS, ECR ), Docker, Kubernetes, Shell scripting, and GitHub
 
 🧰 Skills
 ---
-
-🔹 Cloud Platforms: Aws, Azure
-🔹 CI/CD & Automation: Github Actions, ArgoCD
+🔹 Cloud Platforms: Aws
 🔹 Containerization: Docker, ECR
 🔹 Orchestration: AKS, EKS with Helm
 🔹 Scripting: Shell (Bash), python
@@ -15,6 +12,5 @@ I have 1.2 years of hands-on experience as a software engineer, with expertise i
 
 📬 Contact
 ---
-
 ✉️ Email: rakesh@xgoods.in, business@m4hmotors.com, rakeshkh.devops@gmail.com
 
