@@ -4,9 +4,9 @@ I have 1.2 years of hands-on experience as a software engineer, with expertise i
 
 🧰 Skills
 ---
-🔹 Cloud Platforms: Aws
+🔹 Cloud Platforms: AWS
 🔹 Containerization: Docker, ECR
-🔹 Orchestration: AKS, EKS with Helm
+🔹 Orchestration: EKS with Helm, Kubernetes (self Managed)
 🔹 Scripting: Shell (Bash), python
 🔹 Version Control Systems: Git, GitHub
 
